@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  margin-top:50px;
+}
+
+.google-logo img {
+  width:272px;
+  margin-bottom:20px;
+}
+
+
+
+.search-box input {
+  width:60%;
+  padding:10px;
+  font-size:16px;
+  border:1px solid black;
+  border-radius: 20px;
+}
+
+.search-box button {
+  padding:10px 20px;
+  margin-left:10px;
+  font-size:16px;
+  background-color: #f8f8f8;
+  border: 1px solid black;
+  border-radius: 20px;
+  cursor:pointer;
+}
+
+.search-results {
+  margin-top: 30px;
+  text-align: left;
+  max-width:700px;
+  margin:20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.result{
+  padding:10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.result-link{
+  text-decoration: none;
+}
+
+.result-url{
+  font-size: 14px;
+  color:#006621;
+}
+
+.result-title{
+  font-size:18px;
+  color: #1a0dab;
+  margin:5px 0;
+} 
+
+.result-description{
+  font-size: 14px;
+  color:#545454;
+}
+
+
+
